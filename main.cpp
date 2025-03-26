@@ -1,7 +1,7 @@
 #include <iostream>
 #include<vector>
 #include<string>
-#include "structs.h"
+#include "structs.h"                //You have to upload header file along with .cpp program on github
 #include<chrono>
 #include <iomanip>
 
